@@ -1,0 +1,360 @@
+﻿  Arrow.cpp
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50784,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Arrow.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50804,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Arrow.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50821,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Arrow.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50821,31): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  (compiling source file 'Arrow.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14592,16): warning C4319: '~': zero extending 'unsigned long' to 'double' of greater size
+  (compiling source file 'Arrow.cpp')
+  C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14592,16):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(8910,10):
+  	while compiling class template 'cimg_library::CImg'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(36739,18):
+  	see reference to class template instantiation 'cimg_library::CImg<char>' being compiled
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(28055,73):
+  	see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(16406,12):
+  	while compiling class template member function 'double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(51302,5):
+  		see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(13812,12):
+  	while compiling class 'cimg_library::CImg<float>::_cimg_math_parser'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14591,21):
+  	while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14242,25):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not' in 'cimg_library::CImg<float>::_cimg_math_parser::compile'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(13904,16):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::compile' in 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(16416,7):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser' in 'cimg_library::CImg<float>::eval'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(51302,5):
+  		see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+  
+  Canvas.cpp
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50784,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Canvas.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50804,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Canvas.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50821,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Canvas.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50821,31): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  (compiling source file 'Canvas.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(19,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(19,48): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(19,33): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(25,41): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(25,20): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(24,57): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(24,37): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(31,41): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(31,20): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(30,61): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(30,41): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(38,39): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(38,19): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(37,41): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(37,20): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(36,60): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(36,40): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(44,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(44,48): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(44,33): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(50,41): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(50,20): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(49,57): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(49,37): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(57,41): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(57,20): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(56,61): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(56,41): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(64,39): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(64,19): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(63,41): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(63,20): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(62,60): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(62,40): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14592,16): warning C4319: '~': zero extending 'unsigned long' to 'double' of greater size
+  (compiling source file 'Canvas.cpp')
+  C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14592,16):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(8910,10):
+  	while compiling class template 'cimg_library::CImg'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(36739,18):
+  	see reference to class template instantiation 'cimg_library::CImg<char>' being compiled
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(28055,73):
+  	see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(16406,12):
+  	while compiling class template member function 'double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(51302,5):
+  		see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(13812,12):
+  	while compiling class 'cimg_library::CImg<float>::_cimg_math_parser'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14591,21):
+  	while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14242,25):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not' in 'cimg_library::CImg<float>::_cimg_math_parser::compile'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(13904,16):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::compile' in 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(16416,7):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser' in 'cimg_library::CImg<float>::eval'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(51302,5):
+  		see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+  
+  Circle.cpp
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50784,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Circle.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50804,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Circle.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50821,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Circle.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50821,31): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  (compiling source file 'Circle.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14592,16): warning C4319: '~': zero extending 'unsigned long' to 'double' of greater size
+  (compiling source file 'Circle.cpp')
+  C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14592,16):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(8910,10):
+  	while compiling class template 'cimg_library::CImg'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(36739,18):
+  	see reference to class template instantiation 'cimg_library::CImg<char>' being compiled
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(28055,73):
+  	see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(16406,12):
+  	while compiling class template member function 'double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(51302,5):
+  		see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(13812,12):
+  	while compiling class 'cimg_library::CImg<float>::_cimg_math_parser'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14591,21):
+  	while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14242,25):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not' in 'cimg_library::CImg<float>::_cimg_math_parser::compile'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(13904,16):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::compile' in 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(16416,7):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser' in 'cimg_library::CImg<float>::eval'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(51302,5):
+  		see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+  
+  Menu.cpp
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50784,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Menu.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50804,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Menu.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50821,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Menu.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50821,31): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  (compiling source file 'Menu.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Menu.cpp(160,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14592,16): warning C4319: '~': zero extending 'unsigned long' to 'double' of greater size
+  (compiling source file 'Menu.cpp')
+  C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14592,16):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(8910,10):
+  	while compiling class template 'cimg_library::CImg'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(36739,18):
+  	see reference to class template instantiation 'cimg_library::CImg<char>' being compiled
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(28055,73):
+  	see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(16406,12):
+  	while compiling class template member function 'double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(51302,5):
+  		see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(13812,12):
+  	while compiling class 'cimg_library::CImg<float>::_cimg_math_parser'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14591,21):
+  	while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14242,25):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not' in 'cimg_library::CImg<float>::_cimg_math_parser::compile'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(13904,16):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::compile' in 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(16416,7):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser' in 'cimg_library::CImg<float>::eval'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(51302,5):
+  		see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+  
+  Polygon.cpp
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50784,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Polygon.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50804,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Polygon.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50821,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Polygon.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50821,31): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  (compiling source file 'Polygon.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14592,16): warning C4319: '~': zero extending 'unsigned long' to 'double' of greater size
+  (compiling source file 'Polygon.cpp')
+  C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14592,16):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(8910,10):
+  	while compiling class template 'cimg_library::CImg'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(36739,18):
+  	see reference to class template instantiation 'cimg_library::CImg<char>' being compiled
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(28055,73):
+  	see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(16406,12):
+  	while compiling class template member function 'double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(51302,5):
+  		see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(13812,12):
+  	while compiling class 'cimg_library::CImg<float>::_cimg_math_parser'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14591,21):
+  	while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14242,25):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not' in 'cimg_library::CImg<float>::_cimg_math_parser::compile'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(13904,16):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::compile' in 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(16416,7):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser' in 'cimg_library::CImg<float>::eval'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(51302,5):
+  		see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+  
+  Rectangle.cpp
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50784,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Rectangle.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50804,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Rectangle.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50821,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Rectangle.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50821,31): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  (compiling source file 'Rectangle.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14592,16): warning C4319: '~': zero extending 'unsigned long' to 'double' of greater size
+  (compiling source file 'Rectangle.cpp')
+  C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14592,16):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(8910,10):
+  	while compiling class template 'cimg_library::CImg'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(36739,18):
+  	see reference to class template instantiation 'cimg_library::CImg<char>' being compiled
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(28055,73):
+  	see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(16406,12):
+  	while compiling class template member function 'double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(51302,5):
+  		see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(13812,12):
+  	while compiling class 'cimg_library::CImg<float>::_cimg_math_parser'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14591,21):
+  	while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14242,25):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not' in 'cimg_library::CImg<float>::_cimg_math_parser::compile'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(13904,16):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::compile' in 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(16416,7):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser' in 'cimg_library::CImg<float>::eval'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(51302,5):
+  		see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+  
+  Shape.cpp
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50784,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Shape.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50804,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Shape.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50821,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Shape.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50821,31): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  (compiling source file 'Shape.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14592,16): warning C4319: '~': zero extending 'unsigned long' to 'double' of greater size
+  (compiling source file 'Shape.cpp')
+  C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14592,16):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(8910,10):
+  	while compiling class template 'cimg_library::CImg'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(36739,18):
+  	see reference to class template instantiation 'cimg_library::CImg<char>' being compiled
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(28055,73):
+  	see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(16406,12):
+  	while compiling class template member function 'double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(51302,5):
+  		see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(13812,12):
+  	while compiling class 'cimg_library::CImg<float>::_cimg_math_parser'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14591,21):
+  	while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14242,25):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not' in 'cimg_library::CImg<float>::_cimg_math_parser::compile'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(13904,16):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::compile' in 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(16416,7):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser' in 'cimg_library::CImg<float>::eval'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(51302,5):
+  		see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+  
+  Triangle.cpp
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50784,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Triangle.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50804,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Triangle.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50821,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Triangle.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(50821,31): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  (compiling source file 'Triangle.cpp')
+  
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14592,16): warning C4319: '~': zero extending 'unsigned long' to 'double' of greater size
+  (compiling source file 'Triangle.cpp')
+  C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14592,16):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(8910,10):
+  	while compiling class template 'cimg_library::CImg'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(36739,18):
+  	see reference to class template instantiation 'cimg_library::CImg<char>' being compiled
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(28055,73):
+  	see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(16406,12):
+  	while compiling class template member function 'double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(51302,5):
+  		see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(13812,12):
+  	while compiling class 'cimg_library::CImg<float>::_cimg_math_parser'
+  	C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14591,21):
+  	while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(14242,25):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not' in 'cimg_library::CImg<float>::_cimg_math_parser::compile'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(13904,16):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::compile' in 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(16416,7):
+  		see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser' in 'cimg_library::CImg<float>::eval'
+  		C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\CImg.h(51302,5):
+  		see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+  
+  main.cpp
+  Generating Code...
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Menu.cpp(119,1): warning C4715: 'Menu::Option0': not all control paths return a value
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\Canvas.cpp(82,1): warning C4715: 'Canvas::get_color': not all control paths return a value
+  magshimim_yahav_avraham_ochana_05.vcxproj -> C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_yahav_avraham_ochana_05\x64\Debug\magshimim_yahav_avraham_ochana_05.exe
